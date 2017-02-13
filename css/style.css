@@ -1,0 +1,15 @@
+<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+
+h1{
+  font-size: 1em;
+  font-family: 'Pacifico', serif;
+  float: right;
+}
+p{
+  font-size: 1em;
+  font-family: 'Pacifico';
+}
+
+img {
+  size: 1em;
+}

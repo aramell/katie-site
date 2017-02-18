@@ -9,7 +9,10 @@ p{
   font-size: 1em;
   font-family: 'Pacifico';
 }
+#logo{
+  size: 10%;
+}
 
 img {
-  size: 1em;
+  size: 10%;
 }
